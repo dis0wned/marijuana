@@ -348,7 +348,7 @@ let ofobj = [
 {key: "russiaweed.com", value: "MWKERJLVGEGXS"},
 {key: "italythc.com", value: "MWKERJLVGEGXS"},
 {key: "jomonshiba.com", value: "MWKERJLVGEGXS"},
-{key: "jomonshibacoin.com", value: "MWKERJLVGEGXS"},
+{key: "jomonshibacoin.com", value: "MWKERJLVGEGXS"}
 ]
 
 let domainName = ofobj.find((obj) => obj.key === window.location.hostname)
