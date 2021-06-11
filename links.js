@@ -201,7 +201,15 @@ window.addEventListener('load', function createlist() {
     'http://www.woodyharrelsonmarijuana.com',
     'http://www.xn--budcaf-gva.com',
     'http://www.xn--weedcaf-hya.com',
-    'http://www.yorkmarijuana.com'
+    'http://www.yorkmarijuana.com',
+    'http://www.paperhandedape.com',
+    'http://www.paperaper.com',
+    'http://www.palmbayhousing.com',
+    'http://www.palmbayapartment.com',
+    'http://www.oxnardrental.com',
+    'http://www.northporthousing.com',
+    'http://www.hodlingape.com',
+    'http://www.harrisburgrental.com'
   ],
     ul = document.createElement('ul');
   ul.setAttribute("id", "loadedlinks")
