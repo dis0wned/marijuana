@@ -209,6 +209,17 @@ window.addEventListener('load', function createlist() {
     'http://www.oxnardrental.com',
     'http://www.northporthousing.com',
     'http://www.hodlingape.com',
+    'http://www.weedeliveryservicenearme.com',
+    'http://www.weedispo.com',
+    'http://www.icoaltcoin.com',
+    'http://www.memcoinico.com',
+    'http://www.icomemecoin.com',
+    'http://www.memetokenico.com',
+    'http://www.icomemetoken.com',
+    'http://www.icoalttoken.com',
+    'http://www.icoshittoken.com',
+    'http://www.shittokenico.com',
+    'http://www.icoshitcoin.com',
     'http://www.harrisburgrental.com'
   ],
     ul = document.createElement('ul');
