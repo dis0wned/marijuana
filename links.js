@@ -297,7 +297,14 @@ window.addEventListener('load', function createlist() {
 'http://www.cbrssdr.com',
 'http://www.comparecbsr.com',
 'http://www.comparecbrs.com',
-'http://www.licensecbrs.com'
+'http://www.licensecbrs.com',
+'http://www.siiign.com',
+'http://www.atexfo.com',
+'http://www.installongo.com',
+'http://www.model-coaching.com',
+'http://www.ongohelp.com',
+'http://www.ongowifi.com',
+'http://www.pot-barn.com',
   ],
     ul = document.createElement('ul');
   ul.setAttribute("id", "loadedlinks")
