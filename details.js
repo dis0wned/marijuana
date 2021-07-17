@@ -433,7 +433,14 @@ let ofobj = [
 {key: "cbrssdr.com", value: "WVM8NJ95NBPRU"},
 {key: "comparecbsr.com", value: "YLHNXTVKKVNHC"},
 {key: "comparecbrs.com", value: "YLHNXTVKKVNHC"},
-{key: "licensecbrs.com", value: "YLHNXTVKKVNHC"}
+{key: "licensecbrs.com", value: "YLHNXTVKKVNHC"},
+{key: "siiign.com", value: "A4FLP3FM2HRE6"},
+{key: "atexfo.com", value: "BPNV45MEKKXSL"},
+{key: "installongo.com", value: "A4FLP3FM2HRE6"},
+{key: "model-coaching.com", value: "WVM8NJ95NBPRU"},
+{key: "ongohelp.com", value: "A4FLP3FM2HRE6"},
+{key: "ongowifi.com", value: "A4FLP3FM2HRE6"},
+{key: "pot-barn.com", value: "A4FLP3FM2HRE6"}
 ]
 
 let domainName = ofobj.find((obj) => obj.key === window.location.hostname)
